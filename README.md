@@ -1,4 +1,4 @@
-# NOTE-TAKER
+# NOTE-TAKER APPLICATION
 
 DESCRIPTION
 
@@ -15,12 +15,17 @@ npm i or npm install express is installed before testing the code in the local s
 
 USAGE
 
-When the user open the Note Taker application,Then the user is presented with a landing page with a link to a notes page.
-WHEN the user click on the link to the notes page,Then the user is presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column.
-When the user enter a new note title and the note’s text,then a Save icon appears in the navigation at the top of the page.
-When the user click on the Save icon,then the new note that is entered is saved and appears in the left-hand column with the other existing notes.
+When the user open the Note Taker application,then the user is presented with a landing page with a link to a notes page.
+
+When the user click on the link to the notes page,then the user is presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column.
+
+When the user enter a new note title and the note’s text,then a Save icon 💾 appears in the navigation at the top of the page.
+
+When the user click on the Save icon 💾 ,then the new note that is entered is saved and appears in the left-hand column with the other existing notes.
+
 When the user click on an existing note in the list in the left-hand column,then that note appears in the right-hand column.
-When the user click on the Write icon in the navigation at the top of the page,then the user presented with empty fields to enter a new note title and the note’s text in the right-hand 
+
+When the user click on the plus icon ➕ in the navigation at the top of the page,then the user presented with empty fields to enter a new note title and the note’s text in the right-hand 
 column.
 
 TESTING
@@ -30,10 +35,19 @@ node index.js is used to test the application.
 
 SCREENSHOTS
 
+1. Screenshot of the note-taker application home page
+
+![screenshot](./public/assets/images/sample1.png)
 
 
-WALKTHROUGH VIDEO
+2. Screenshot of the note-taker application while entering sample note-tile and note text 
 
+![screenshot](./public/assets/images/sample2.png)
+
+
+3. Screenshot of the note-taker app after entering sample data
+
+![screenshot](./public/assets/images/sample3.png)
 
 
 CREDITS
