@@ -10,7 +10,9 @@ To devolop an application for the user to write and save notes to keep track of 
 
 ##INSTALLATION
 
-npm i or npm install express is installed before testing the code in the local server.
+1. npm i or npm install express is installed before testing the code in the local server.
+
+2. Heroku is installed to deploy the webpage .
 
 
 ##USAGE
