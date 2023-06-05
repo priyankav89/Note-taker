@@ -49,6 +49,11 @@ node index.js is used to test the application.
 
 ![screenshot](./public/assets/images/sample3.png)
 
+##WALKTHROUGH VIDEO DEMO
+
+https://github.com/priyankav89/Note-taker/assets/127457597/cf8e1e9f-67c9-4d8a-aa90-2406a9c44fb0
+
+
 
 ##CREDITS
 
